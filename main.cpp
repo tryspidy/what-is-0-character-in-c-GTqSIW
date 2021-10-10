@@ -1,0 +1,1 @@
+this character in the c++ string means the end of the string
